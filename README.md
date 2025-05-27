@@ -1,5 +1,5 @@
 "# DSA-Java" 
-# Data Structures And Algorithms (Pepcoding)
+# Data Structures And Algorithms
 
 [Conditionals](Data%20Structures%20And%20Algorithms%20(Pepcoding)%20aac4fb7e61794866b576c22790ad0ee9/Conditionals%201f3f205916e280f58fbdef3c3b28115e.md)
 
